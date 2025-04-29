@@ -25,13 +25,16 @@
 ---
 
 ### 🛠️ Featured Projects
-- [Gezinomi - Customer Retention Estimation (Python)](https://github.com/MuhammetEnesDemirkol/Gezinomi)
-- [Gaming Company - Sales Revenue Prediction (Python)](https://github.com/MuhammetEnesDemirkol/Gaming-Company)
-- [e-Commerce Mobile App (React Native)](https://github.com/MuhammetEnesDemirkol/eCommerceApp)
-- [Web Scraper for Trendyol (Python & JS)](https://github.com/MuhammetEnesDemirkol/webScraperJS)
-- [3D Matching Game (Unity & C#)](https://github.com/MuhammetEnesDemirkol/3D-matching-game)
-- [Patient Examination and Prescription System (C# & PostgreSQL)](https://github.com/MuhammetEnesDemirkol/Inspection-Information)
-- [Course Registration System (C# & PostgreSQL)](https://github.com/MuhammetEnesDemirkol/Course-Registration)
+- [Gezinomi – Customer Retention Estimation (Python)](https://github.com/MuhammetEnesDemirkol/Gezinomi) – Rule-based CLTV analysis using Python (BG/NBD & Gamma-Gamma).
+- [Gaming Company – Sales Revenue Prediction (Python)](https://github.com/MuhammetEnesDemirkol/Gaming-Company) – Forecasting sales revenue using probabilistic models.
+- [FLO Customer Segmentation – RFM Analysis (Python)](https://github.com/MuhammetEnesDemirkol/flo-customer-segmentation-rfm) – Customer segmentation using Recency, Frequency, and Monetary scoring.
+- [e-Commerce Mobile App (React Native)](https://github.com/MuhammetEnesDemirkol/eCommerceApp) – Shopping app with cart, favorites, and product listing.
+- [Web Scraper for Trendyol (Python & JS)](https://github.com/MuhammetEnesDemirkol/webScraperJS) – Scrapes product reviews and data from Trendyol for analysis.
+- [3D Matching Game (Unity & C#)](https://github.com/MuhammetEnesDemirkol/3D-matching-game) – Interactive Unity game focused on object matching with scoring.
+- [Library Assistant Chatbot (Python)](https://github.com/MuhammetEnesDemirkol/library-assistant-chatbot) – AI-powered assistant for library queries, catalog search, and academic resources.
+
+
+
 
 ---
 
