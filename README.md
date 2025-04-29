@@ -39,6 +39,7 @@
 ---
 
 ### 📚 Certifications
+- [Measurement Problems – Miuul](https://learning.miuul.com/certificates/gxoviagk8j)
 - [CRM Analytics – Miuul](https://learning.miuul.com/certificates/471xh19osm)
 - [Introduction to Data Science and AI – Miuul](https://learning.miuul.com/certificates/8ppsikbbju)
 - [Python Programming for Data Science – Miuul](https://learning.miuul.com/certificates/k1lrpfbczc)
