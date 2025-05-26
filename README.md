@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Muhammet Enes Demirkol
 
-🎓 Senior Computer Engineering student.  
+🎓 Computer Engineer.
 💻 Passionate about **Web Development**, **Data Science**, and **AI-powered solutions**.  
 🚀 Dedicated to solving real-world problems through technology.
 
