@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Muhammet Enes Demirkol
 
-🎓 Computer Engineer.
-💻 Passionate about **Web Development**, **Data Science**, and **AI-powered solutions**.  
-🚀 Dedicated to solving real-world problems through technology.
+  🎓 **Computer Engineer**.  
+  💻 Passionate about **Web Development**, **Data Science**, and **AI-powered solutions**.  
+  🚀 Dedicated to solving real-world problems through technology.
 
 ---
 
